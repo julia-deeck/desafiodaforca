@@ -2,7 +2,7 @@ palavra = "python"
 letras_digitadas = []
 chances = 6
 ganhou = False
-# Etapas do boneco (índice 0 = sem erro, índice 6 = enforcado)
+# etapas do boneco (índice 0 = sem erro, índice 6 = enforcado)
 boneco = [
         """
          -----
