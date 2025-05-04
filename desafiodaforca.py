@@ -1,4 +1,3 @@
-
 palavra = "python"
 letras_digitadas = []
 chances = 6
